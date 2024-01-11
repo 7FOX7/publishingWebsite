@@ -1,0 +1,32 @@
+html {
+	background-color: skyblue;
+	font-size: 25px; 
+	font-family: Salsa, cursive; 
+}
+
+body {
+	margin: 0;
+	margin-left: 85px; margin-right: 85px; 
+	padding-left: 45px; padding-right: 45px; padding-bottom: 45px; 
+	background-color: darkgray; 
+	border: solid black; 
+}
+
+h1 {
+	margin-block-start: -10px; 
+	font-size: 60px; 
+	font-family: Calibri; 
+	text-align: center; 
+	text-shadow: 1px 1px 1px black; 
+}
+
+img {
+	margin: auto; 
+	display: block; 
+	border: 2px solid black; 
+}
+
+
+p {
+	line-height: 15px; 
+}

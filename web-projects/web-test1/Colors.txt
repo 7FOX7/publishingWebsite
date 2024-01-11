@@ -1,0 +1,5 @@
+1. Theme color hex: 
+#2EE9DF (like the blue-green) 
+
+1. Theme color HTML/CSS: 
+rgb(46, 233, 223)

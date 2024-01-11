@@ -1,0 +1,19 @@
+1. Title of the shop game - GameShop (Shop is crossed) Stop
+
+
+link-1: GameShop (Shop is crossed) Stop  -  to the main page.
+link-2: Login -  to the login page. 
+link-3: Cart  -  to the cart page. 
+link-4: Sale items  -  to the general page with the sale items. 
+link-5: Xbox items  -  to the page with Xbox Products
+link-5: PS items  -  to the page with PS Products 
+link-6: PC items  -  to the page with PC Products
+link-7: Nintendo items  -  to the page with Nintendo Products
+link-8: Collectibles  -  to the page with Collectibles 
+link-9: Others  -  to the page with more categorized Products 
+link-10: Pop up images  -  to the page with the content on it 
+
+
+plain text-1: Description under the pop up images
+
+special-1: Search bar

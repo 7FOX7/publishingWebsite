@@ -1,0 +1,20 @@
+
+Font import: <style>
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,200&family=Salsa&family=Teko:wght@300&display=swap');
+</style>
+
+Font CSS links: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@1,200&family=Salsa&family=Teko:wght@300&display=swap" rel="stylesheet">
+
+
+CSS rules to specify the families: font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Salsa', cursive;
+font-family: 'Teko', sans-serif;
+
+
+1. Salsa applied to 'Login/SignUp' and 'Cart' 
+
+2. Teko applied to 'Search bar' 
+
+3. Barlow Condensend applied to the details under pop up images
